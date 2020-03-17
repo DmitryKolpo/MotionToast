@@ -83,8 +83,8 @@ Add dependency in your app module
 
 ## Toast Duration ⌛️ 
 ```
-        1. LONG_DURATION // 4 Seconds
-        2. SHORT_DURATION // 2 Seconds
+        1. LONG_DURATION // 5 Seconds
+        2. SHORT_DURATION // 3 Seconds
        
 ```
 
